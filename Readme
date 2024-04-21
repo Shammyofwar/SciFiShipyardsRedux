@@ -1,0 +1,105 @@
+
+This is a remake of and update to 
+https://forum.kerbalspaceprogram.com/topic/34924-104-scifi-shipyards-discontinued/
+
+ I purposely left out the Phoenix, Enterprise, and Galileo Shuttlecraft as these ships are available in TrekDrive and are made well.
+I also left the "Photon Torpedo" as this will be released when I release the BD Armory integration. This is not just an update to 1.12.5 (will work on 1.12.3 too),  but converting them to a modular system.   All ships now have impulse engines and warp drives from TrekDrive. Each Ship is configured with an ability that no other ship in the mod has. This can be changed through the module system.
+Includes
+
+USS Stargazer - An overworked, and underpowered vessel. It always seems to be on the verge of flying apart at the seams. This is the only craft that utilizes the best of both worlds warp 5 engine.
+USS Voyager - Voyager has not only a shuttle bay but landing legs for VTOL activities. Due to its time in the Delta quadrant, it has a 20GM antenna. that can reach Kerbin from vast distances.
+Borg Cube - Resistance is futile! 7 out of 9 Kerbals could not resist the urge to get. Features a built-in radiator to prevent overheating and a fuel cell for aux power.
+Doomsday Machine - Retired from its days of planet-killing. It's unknown how it works, but its unknown tech allows for infinite resources and warp 10.
+Tardis - An obsolete TT capsule used by the doctor. The chameleon circuit is broken, so it's stuck looking like a police box.It utilizes a "Phase out" invisibility.
+Flying Saucer - The truth is out there, so go find it! This craft due to its origins outside of Kerbin has all the scientific testing you need on board.
+InvisoStruts - This Strut Connector is highly regarded by many spacecraft engineers as they help in constructing more stable spacecraft. Once both sides are connected, a structural beam is created to link both ends, allowing for sturdier (and heavier) construction without having visable struts.
+Some flags
+and
+
+Every ship in Scifi Shipyards Redux is built with modules using Module Manager. This system allows you to modify your ships without ever touching a line of code simply by replacing a file in the ships module folder with a pre-written file. If you can move a picture from your desktop to your My Pictures folder you can create the starship of your dreams!- see the tutorial in the download.
+
+Known Bugs
+
+Doomsday Machine sometimes goes crazy and rolls around at launch but it is huge, easily fixed, and control re-established by turning on SAS, RCS, and Impulse engine.- In rare cases, it explodes at launch please do a quick save before launching this ship. I believe the issue is its size it's almost 1/2 the length of the level 3 runway and taller than all the buildings. 
+Voyager is larger than it should be - If you want to shrink it use Tweakscale but you will need to use adjust tools in Editer as the Shuttle door and Nacelles won't line up right when shrunk.
+Tardis lights come on when charging warp coils - kind of a cool effect I think.
+Infinity or NaN floating point numbers appear when calculating the transform matrix for a Collider. Scene hierarchy path error has occurred a few times during Eva with SciFi Saucer - not sure if it's my PC or the mod- please report it on this release thread if it happens to you.
+This is a Beta Release and there may be other bugs or issues. If found please report them to me here on this release forum post.
+ 
+
+Dependencies
+
+ Community Resource Pack
+Module Manager 
+Waterfall Core
+Hanger Extender (It will operate without this but these ships are large)
+
+
+Recommended mods
+TrekDrive
+Science - Full Transmit! (these ships can be tricky to land - Voyager and the Flying Saucer do have landing gear)
+Community Tech Tree (patch is included)
+BD Armory (integration coming soon)
+
+Conflicts
+None that I'm aware of.
+
+Credits
+Warp effects not showing up issue fixed and testing by TheShadow1138.- Thanks again.
+StarVision created the original mod.
+The Internal Enterprise was given to StarVision to put into the original mod by Boogaman. 
+This mod has TheShadow1138's TrekDrive plugin integrated into it with permission to allow for warp and impulse engine functionality, and warp visual effects.  
+This mod makes use of the module manager mod by Sarbian and Blowfish.
+This mod makes use of the Waterfall core mod by Nertea.
+This mod makes use of The Community Resource Pack mod by RoverDude.
+This mod depicts crafts from Star Trek and Dr Who. Ship likeness and names are their sole property.
+Many thanks to all these people for all their work and thanks to Squad for the game itself.
+
+Roadmap for the future
+
+Beta 0.6 – 6 original ships are functioning and flying properly with no known bugs. I will not be updating Enterprise or the Shuttle because you can get well-made versions of them in TrekDrive. - This is today's release.
+
+ 
+
+Beta 0.7 – Adding 7 ships from outdated Skunkworks mods by  StinkyAce  ,with his permission. This will be released when all 7 additional ships are functioning and flying properly with no known bugs
+
+Republic Attack Ship
+
+Excelsior
+
+KTagga Class Cruiser
+
+Klingon Bird Of Prey
+
+Romulan Bird Of Prey
+
+Federation Strike Fighter
+
+ Cardassian  Galor Class Cruiser
+
+
+ 
+
+Beta 0.8 - Integrate BD armory modules (BD armory will optional but necessary for them to function) such as Integrated radars, AI orbital autopilot, weapons control, and numerous weapons created by  StinkyAce as well as a few that I will create. I would also like to see a multiplayer server hosted for this mod at this release, I think it would be a ton of fun!
+
+
+ 
+
+Beta 0.95– (may not happen) If I can get a coder and a modeler who wants to contribute I want to add a few of new interiors and make all ships FreeIVA compatible with ASET functionality. - I can not code or model anymore.
+
+
+ 
+
+Release 1.0 – All release files will be localized, any known bugs corrected and I will write an in-depth on how to customize all ships via the modular system (Already done)  and post on GitHub a library of modular plug-in files (In download currently ) to make customization super easy.
+
+I am not going to assign any milestones to this mod as I did on Galactic Trading as this is something I am developing for me and am sharing it with the world. If you would like to contribute to the development of this mod please reach out to me. I hope you all enjoy it, I know I will!
+
+Released under GPL 3.0 License
+
+ 
+
+Download at Github (here), Spacedock, Curse or CKAN
+
+Download on Curse
+
+Join my Patreon page for free to track my mod development with daily updates.
